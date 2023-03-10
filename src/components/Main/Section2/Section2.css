@@ -1,0 +1,22 @@
+.second-section{
+	background-image: url(../../../commonResource/Images/march9apple2023/Second.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	height: 600px;
+
+}
+.product-title2 {
+	color: #ffffff;
+	line-height: 20px;
+	padding-top: 40px;
+	font-weight: 700;
+	font-size: 56px;
+}
+
+.brief-description2 {
+	padding-top: 30px;
+	color: #fdfdff;
+	font-size: 27px;
+}
